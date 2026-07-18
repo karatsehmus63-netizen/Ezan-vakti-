@@ -1,1 +1,4 @@
+body { font-family: sans-serif; background-color: #2c3e50; color: white; text-align: center; padding: 20px; }
+.container { max-width: 400px; margin: auto; background: #34495e; padding: 20px; border-radius: 15px; }
+#sayac { font-size: 3rem; font-weight: bold; color: #f1c40f; margin: 20px 0; }
 
